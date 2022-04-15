@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 400
   const CANVASID = 'canvas'
 
-  let texts = ['HEI SHAFIRA', 'LOOK AT THIS STAR', "IT'S BEAUTIFUL, ISN'T IT?", 'JUST LIKE U', "FINALLY IT'S VALENTINE", "JUST LIKE MY NAME U GAVE", 'SO']
+  let texts = ['HEI', 'LOOK AT THIS STAR', "IT'S BEAUTIFUL, ISN'T IT?", 'JUST LIKE U', "FINALLY IT'S VALENTINE", "JUST LIKE MY NAME U GAVE", 'SO']
 
   let canvas,
     ctx,
